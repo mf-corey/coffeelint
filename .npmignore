@@ -1,4 +1,3 @@
-src/
 test/
 coffeelint.json
 .travis.yml
